@@ -7,7 +7,7 @@
 ### 🚀 Softwaer Engineer Undergrade | Sri Lanka Institute of Information Technology (SLIIT)
 
 
-I am a passionate Software Engineer undergrade with 6 years of experience specializing in building robust, high-performance web applications. My focus is on creating clean, maintainable codebases and leveraging cloud-native architectures to deliver exceptional user experiences.
+An enthusiastic learner and aspiring developer currently pursuing a degree in Software Engineering. Committed to continuous skill development, I enjoy tackling complex challenges and collaborating on projects. My core strengths lie in [Presentation Skills , Conflict Resolution , Respectfulness , Problem-Solving], and I am excited to transition academic knowledge into professional impact
 
 ---
 
