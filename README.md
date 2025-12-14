@@ -1,7 +1,7 @@
--- 👋 Hi, I’m @diludfernando
+# 👋 Hi, I’m @diludfernando
 - 👀 I’m interested in coding
-# 🌱 I’m currently learning about programming
-# 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently learning about programming
+- 💞️ I’m looking to collaborate on projects
 
 
 ### 🚀 Softwaer Engineer Undergrade | Sri Lanka Institute of Information Technology (SLIIT)
