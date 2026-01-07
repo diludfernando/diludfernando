@@ -17,7 +17,7 @@ Here are the technologies and tools I frequently work with.
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React, TypeScript, Tailwind CSS |
+| **Frontend** | HTML, CSS, JavaScript, React, Tailwind CSS |
 | **Backend** | Java, Python, C++ |
 | **Databases** | MSSQL, MYSQL |
 
