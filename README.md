@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 
 
-### 🚀 Softwaer Engineer Undergrade | Sri Lanka Institute of Information Technology (SLIIT)
+### 🚀 Software Engineer Undergrade | Sri Lanka Institute of Information Technology (SLIIT)
 
 
 An enthusiastic learner and aspiring developer currently pursuing a degree in Software Engineering. Committed to continuous skill development, I enjoy tackling complex challenges and collaborating on projects. My core strengths lie in [Presentation Skills , Conflict Resolution , Respectfulness , Problem-Solving], and I am excited to transition academic knowledge into professional impact
