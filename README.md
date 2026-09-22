@@ -1,80 +1,150 @@
 <h1 align="center">Hi 👋, I'm Dilud Fernando</h1>
-<h3 align="center">Software Engineering Undergraduate | SLIIT | Aspiring Developer from Sri Lanka 🇱🇰</h3>
+
+<h3 align="center">
+  Software Engineering Undergraduate at SLIIT | Aspiring Software Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Passionate+about+Coding;Currently+Learning+and+Building;Future+Software+Engineer;Always+Open+to+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+about+Software+Development;Always+Learning+New+Technologies;Building+Real-World+Projects;Open+to+Collaboration" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 I’m a **Software Engineering Undergraduate** at **Sri Lanka Institute of Information Technology (SLIIT)**
-- 💻 I’m interested in **coding, software development, and problem solving**
-- 🌱 I’m currently learning **modern programming concepts and development tools**
-- 🤝 I’m looking to collaborate on **interesting software projects**
-- ⚡ Strong qualities: **Presentation Skills, Conflict Resolution, Respectfulness, Problem-Solving**
+- 🎓 Software Engineering Undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**
+- 💻 Interested in **Software Development, Web Development, AI, and Programming**
+- 🌱 Currently improving my skills in **Full-Stack Development**
+- 🤝 Open to collaborating on interesting software projects
+- 🧠 Interested in solving real-world problems through technology
+- 🚀 Always learning and experimenting with new technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Programming Languages
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,cs,dart" />
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,dotnet,nodejs" />
+</p>
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,androidstudio,azure,postman" />
+</p>
 
 ---
 
-## 📌 Current Focus
+## 🎯 Current Focus
 
-- 🔭 Building my skills in **software engineering**
-- 📚 Learning more about **full-stack development**
-- 🎯 Improving my **coding, teamwork, and project development** skills
+- 🚀 Building full-stack applications
+- 🤖 Exploring AI and multi-agent systems
+- ☁️ Learning cloud deployment and DevOps concepts
+- 🐳 Improving Docker and containerization skills
+- 📱 Developing Flutter applications
+- 🌐 Building modern React applications
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=diludfernando&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Dilud's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=diludfernando&theme=tokyonight&hide_border=true"
+    alt="Dilud's GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diludfernando&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Dilud's Most Used Languages"
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=diludfernando&theme=tokyo-night&hide_border=true"
+    alt="Dilud's Contribution Graph"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Profile Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=diludfernando&theme=tokyonight&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/diludfernando" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diludfernando&show_icons=true&theme=tokyonight" alt="github stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diludfernando&theme=tokyonight" alt="github streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diludfernando&layout=compact&theme=tokyonight" alt="top langs" />
+
+  <a href="https://github.com/diludfernando">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 </p>
-
-
-## ✨ Quote I Like
-
-> “Keep learning, keep building, and let your work speak for itself.”
 
 ---
 
-<p align="center">Thanks for visiting my profile! 😊</p>
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diludfernando&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <b>💡 "Keep learning, keep building, and let your work speak for itself."</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
