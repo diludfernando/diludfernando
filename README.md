@@ -59,7 +59,6 @@
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -71,7 +70,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diludfernando&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
----
 
 ## ✨ Quote I Like
 
