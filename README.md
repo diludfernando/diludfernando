@@ -64,28 +64,26 @@
 - 📱 Developing Flutter applications
 - 🌐 Building modern React applications
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=diludfernando&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Dilud's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=diludfernando&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=diludfernando&theme=tokyonight&hide_border=true"
-    alt="Dilud's GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diludfernando&layout=compact&theme=tokyonight"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diludfernando&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Dilud's Most Used Languages"
+    src="https://streak-stats.demolab.com?user=diludfernando&theme=tokyonight"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -95,24 +93,21 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=diludfernando&theme=tokyo-night&hide_border=true"
-    alt="Dilud's Contribution Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=diludfernando&theme=tokyo-night"
+    alt="GitHub Contribution Graph"
   />
 </p>
 
 ---
 
-## 🏆 GitHub Profile Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=diludfernando&theme=tokyonight&no-frame=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=diludfernando&theme=onedark&no-frame=true"
     alt="GitHub Trophies"
   />
 </p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
