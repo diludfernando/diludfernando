@@ -67,24 +67,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=diludfernando&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=diludfernando&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=diludfernando&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diludfernando&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=diludfernando&theme=tokyonight"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=diludfernando&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -92,10 +83,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=diludfernando&theme=tokyo-night"
-    alt="GitHub Contribution Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diludfernando&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -103,11 +91,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=diludfernando&theme=onedark&no-frame=true"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=diludfernando&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
