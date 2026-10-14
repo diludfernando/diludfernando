@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Full-Stack+Development;AI+and+Intelligent+Systems;Building+Practical+Software+Solutions;Learning%2C+Building%2C+Improving" alt="Animated introduction" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/diludfernando">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-0891B2?style=for-the-badge" alt="Open to collaboration"/>
-</p>
 
 ---
 
