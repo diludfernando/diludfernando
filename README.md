@@ -33,11 +33,15 @@ I enjoy working across the full stack, exploring artificial intelligence, and le
 
 ### 🌐 Skill Bridge Lanka
 
-A software project organized into frontend and backend components.
+An educational and career-development platform prototype designed to help learners **assess technical skills, identify learning gaps, and explore future career pathways**.
 
-**Project areas:** Frontend development, backend development, and application integration.
+**Implemented frontend features:** Responsive landing page, beginner/intermediate/advanced assessment selection, interactive multiple-choice quiz, progress tracking within the quiz, score results, and retry functionality.
 
-[View Repository](https://github.com/diludfernando/Skill-Bridge-Lanka-)
+**Tech stack:** React, JavaScript, Vite, React Router, CSS, and Lucide React.
+
+**Future direction:** Learner profiles, personalized learning recommendations, career counselling, and job-market progress tracking. These are planned modules, not yet verified as working backend features.
+
+[View Repository & Documentation](https://github.com/diludfernando/Skill-Bridge-Lanka-)
 
 ### ♻️ Food Waste Management System
 
