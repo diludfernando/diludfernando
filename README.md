@@ -76,6 +76,16 @@
 
 ---
 
+## 📈 GitHub Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=diludfernando&theme=react-dark&hide_border=true" alt="Dilud Fernando's GitHub contribution activity graph" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   ⭐ Thanks for visiting my GitHub profile!
 </p>
