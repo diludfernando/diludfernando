@@ -31,16 +31,6 @@ I enjoy working across the full stack, exploring artificial intelligence, and le
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Customer Support Platform
-
-A full-stack, AI-focused customer support project combining traditional support workflows with intelligent automation.
-
-**Documented technologies:** React, TypeScript/JavaScript, ASP.NET Core, C#, PostgreSQL, Docker
-
-**Architecture and capabilities described in the project documentation:** RAG, semantic and keyword search, response generation, ticket classification, and human-agent escalation.
-
-[View Repository](https://github.com/diludfernando/AI-Customer-Support-Platform)
-
 ### 🌐 Skill Bridge Lanka
 
 A software project organized into frontend and backend components.
