@@ -37,13 +37,6 @@ An educational and career-development platform prototype designed to help learne
 
 [View Repository & Documentation](https://github.com/diludfernando/Skill-Bridge-Lanka-)
 
-### ♻️ Food Waste Management System
-
-A software project focused on the real-world problem of food waste management.
-
-**Project areas:** Web application development, backend integration, and deployment.
-
-[View Repository](https://github.com/diludfernando/Food_Waste_Managment_System)
 
 ---
 
