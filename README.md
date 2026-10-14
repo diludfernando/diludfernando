@@ -1,81 +1,155 @@
 <h1 align="center">Hi 👋, I'm Dilud Fernando</h1>
 
-<h3 align="center">
-  Software Engineering Undergraduate at SLIIT | Aspiring Software Developer
-</h3>
+<h3 align="center">Software Engineering Undergraduate at SLIIT | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+about+Software+Development;Always+Learning+New+Technologies;Building+Real-World+Projects;Open+to+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Full-Stack+Development;AI+and+Intelligent+Systems;Building+Practical+Software+Solutions;Learning%2C+Building%2C+Improving" alt="Animated introduction" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/diludfernando">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-0891B2?style=for-the-badge" alt="Open to collaboration"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering Undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**
-- 💻 Interested in **Software Development, Web Development, AI, and Programming**
-- 🌱 Currently improving my skills in **Full-Stack Development**
-- 🤝 Open to collaborating on interesting software projects
-- 🧠 Interested in solving real-world problems through technology
-- 🚀 Always learning and experimenting with new technologies
+I'm a **Software Engineering Undergraduate at the Sri Lanka Institute of Information Technology (SLIIT)** with an interest in developing practical, reliable, and scalable software applications.
+
+I enjoy working across the full stack, exploring artificial intelligence, and learning how modern software systems are designed, tested, and deployed.
+
+- 💻 Interested in **full-stack software development, backend engineering, and AI**
+- 🤖 Exploring **multi-agent systems, RAG, and intelligent applications**
+- 🔧 Developing skills in **software architecture, automated testing, and CI/CD**
+- ☁️ Learning **cloud technologies, Docker, and DevOps practices**
+- 🤝 Open to collaborating on meaningful software projects
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Customer Support Platform
+
+A full-stack, AI-focused customer support project combining traditional support workflows with intelligent automation.
+
+**Documented technologies:** React, TypeScript/JavaScript, ASP.NET Core, C#, PostgreSQL, Docker
+
+**Architecture and capabilities described in the project documentation:** RAG, semantic and keyword search, response generation, ticket classification, and human-agent escalation.
+
+[View Repository](https://github.com/diludfernando/AI-Customer-Support-Platform)
+
+### 🌐 Skill Bridge Lanka
+
+A software project organized into frontend and backend components.
+
+**Project areas:** Frontend development, backend development, and application integration.
+
+[View Repository](https://github.com/diludfernando/Skill-Bridge-Lanka-)
+
+### ♻️ Food Waste Management System
+
+A software project focused on the real-world problem of food waste management.
+
+**Project areas:** Web application development, backend integration, and deployment.
+
+[View Repository](https://github.com/diludfernando/Food_Waste_Managment_System)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,cs,dart,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,cs,dart,html,css&theme=dark" alt="Programming languages" />
 </p>
 
-### 🌐 Frontend Development
+### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,flutter,html,css,js,ts&theme=dark" alt="Frontend technologies" />
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,dotnet,nodejs" />
+  <img src="https://skillicons.dev/icons?i=dotnet,java,python,nodejs&theme=dark" alt="Backend technologies" />
 </p>
 
-### 🔐 Authentication & Security
+**Also exploring:** Spring Boot, RESTful API design, and AI agent development.
+
+### Databases
 
 <p>
-  <img src="https://cdn.simpleicons.org/clerk/6C47FF" alt="Clerk Authentication" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Database technologies" />
 </p>
 
-### 🗄️ Databases
+### Authentication & Security
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://cdn.simpleicons.org/clerk/6C47FF" alt="Clerk" width="45" height="45"/>
 </p>
 
-### 🔧 Tools & Platforms
+**Areas of interest:** Authentication, authorization, JWT, and application security.
+
+### Developer Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,azure,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,azure,postman&theme=dark" alt="Development tools" />
 </p>
+
+---
+
+## ⚙️ Software Engineering Practices
+
+| Area | Current Focus |
+|---|---|
+| Software Architecture | Modular design, clean code, API integration |
+| Testing | Unit testing, integration testing, automated test cases |
+| Quality Engineering | Code coverage, test automation, bug prevention |
+| DevOps | Git workflows, CI/CD, Docker |
+| AI Engineering | RAG, multi-agent workflows, prompt engineering |
+| Backend Engineering | REST APIs, databases, authentication |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diludfernando&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diludfernando&layout=compact&theme=github_dark&hide_border=true" alt="Most used repository languages" />
+</p>
+
+*Language statistics describe the composition of public repositories, not proficiency. These cards are generated by a third-party service and may occasionally be unavailable.*
 
 ---
 
 ## 🎯 Current Focus
 
-- 🚀 Building full-stack applications
-- 🤖 Exploring AI and multi-agent systems
-- ☁️ Learning cloud deployment and DevOps concepts
-- 🐳 Improving Docker and containerization skills
-- 📱 Developing Flutter applications
-- 🌐 Building modern React applications
+- Building modern full-stack applications
+- Developing intelligent applications using AI agents
+- Improving software testing and code quality
+- Exploring CI/CD pipelines and automated workflows
+- Strengthening backend architecture and API development
+- Learning cloud deployment and containerization
 
+---
 
+## 🌱 My Engineering Mindset
 
-</p>
+> Build practical solutions. Write maintainable code. Test consistently. Keep learning.
+
+I believe software engineering is not just about writing code. It's about understanding problems, making thoughtful technical decisions, and delivering reliable solutions.
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
+  <b>Thanks for visiting my GitHub profile!</b>
+</p>
+
+<p align="center">
+  <sub>Always learning · Always building · Always improving</sub>
 </p>
