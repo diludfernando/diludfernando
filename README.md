@@ -41,6 +41,12 @@
   <img src="https://skillicons.dev/icons?i=java,python,dotnet,nodejs" />
 </p>
 
+### 🔐 Authentication & Security
+
+<p>
+  <img src="https://cdn.simpleicons.org/clerk/6C47FF" alt="Clerk Authentication" width="48" height="48" />
+</p>
+
 ### 🗄️ Databases
 
 <p>
