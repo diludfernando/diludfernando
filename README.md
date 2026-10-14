@@ -76,11 +76,11 @@
 
 ---
 
-## 📈 GitHub Contribution Activity Graph
+## 🟩 GitHub Contribution Calendar
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=diludfernando&theme=react-dark&hide_border=true" alt="Dilud Fernando's GitHub contribution activity graph" />
+  <a href="https://github.com/diludfernando">
+    <img src="https://ghchart.rshah.org/diludfernando" alt="Dilud Fernando's GitHub contribution calendar" />
   </a>
 </p>
 
