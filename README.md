@@ -76,16 +76,6 @@
 
 ---
 
-## 🟩 GitHub Contribution Calendar
-
-<p align="center">
-  <a href="https://github.com/diludfernando">
-    <img src="https://ghchart.rshah.org/diludfernando" alt="Dilud Fernando's GitHub contribution calendar" />
-  </a>
-</p>
-
----
-
 <p align="center">
   ⭐ Thanks for visiting my GitHub profile!
 </p>
