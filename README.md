@@ -51,7 +51,7 @@ An educational and career-development platform prototype designed to help learne
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,flutter,html,css,js,ts&theme=dark" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,ts&theme=dark" alt="Frontend technologies" />
 </p>
 
 ### Backend Development
